@@ -1,16 +1,27 @@
-### Hi there 👋
+![Header](https://github.com/arcqkk5/arcqkk5/blob/main/АВА%20github%20for%20readme.jpg?raw=true)
 
-<!--
-**arcqkk5/arcqkk5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a frontend developer
+   - I am studying at the Bauman
+     Moscow State Technical University a 4th year student.
+   - I like strange, interesting and difficult tasks.
+   - In my free time, I am engaged in writing websites to order.
+   - I'm trying to learn something new in the field of programming, especially in the JavaScript language
 
-Here are some ideas to get you started:
+## Languages, development environments, and tools that I use:
+  - JavaScript ES6+
+  - React.js/Redux
+  - React Native
+  - Vue.js
+  - Node.js
+  - Electron
+  - Express
+  - GraphQL
+  - HTML5/CSS3
+  - Sass/Less
+  - Webpack/gulp
+  - git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Follow me:
+  - Telegram: https://t.me/GLafutkin
+  - mail: arcq-k5@ya.ru
+  - inst: @gfrontend
