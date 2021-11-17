@@ -1,4 +1,4 @@
-![Header](https://github.com/arcqkk5/arcqkk5/blob/main/АВА%20github%20for%20readme.jpg?raw=true)
+![Header]()
 
 ## I'm a frontend developer
    - I am studying at the Bauman
