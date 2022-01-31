@@ -1,4 +1,4 @@
-## A little about yourself:
+## Some information about myself:
 - I am a frontend developer.
 4th year student, studying at Bauman Moscow State Technical University at the Faculty of IU8 (Computer Science and Control Systems).
 
