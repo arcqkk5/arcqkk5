@@ -5,12 +5,12 @@
 
 ## Stack:
   - JavaScript/TypeScript
-  - React/Redux
+  - React&Redux
   - React Native
-  - Node.js
+  - Node.js/Electron
   - HTML5/CSS3
-  - Sass/Less
-  - Webpack/gulp
+  - Sass/Less/Scss
+  - Webpack/gulp/parcel
   - git and gitlab
 
 ### Connection:
