@@ -1,17 +1,12 @@
 ## Some information about myself:
 - I am a frontend developer.
-4th year student, studying at Bauman Moscow State Technical University at the Faculty of IU8 (Computer Science and Control Systems).
+5th year student, studying at Bauman Moscow State Technical University at the Faculty of IU8 (Computer Science and Control Systems).
 
 
 ## Stack:
-  - JavaScript/TypeScript
-  - React&Redux
-  - React Native
-  - Node.js/Electron
-  - HTML5/CSS3
-  - Sass/Less/Scss
-  - Webpack/gulp/parcel
-  - git and gitlab
+  - JS/TS
+  - React/VUE
+  - Node (koa, express, electron), NextJS
 
 ### Connection:
   - Telegram: https://t.me/GLafutkin
